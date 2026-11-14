@@ -51,8 +51,6 @@ A scheduled Agentic AI task that scans my Slack chats, emails and work tracker, 
 
 ## Let's connect
 
-Exploring brand, campaign and marketing automation roles in Berlin.
+[LinkedIn](https://www.linkedin.com/in/xiaoxuanlili) 
+[The AI Marketing Log](https://lixiaoxuan.substack.com)
 
-[LinkedIn](https://www.linkedin.com/in/xiaoxuanlili) · [The AI Marketing Log](https://lixiaoxuan.substack.com)
-
-<sub>Off the clock: freelance makeup artist.</sub>
