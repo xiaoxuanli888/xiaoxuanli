@@ -6,7 +6,9 @@ I hand the repetitive groundwork to AI, so my time goes into the ideas, the mark
 
 Berlin · DACH, France & Benelux focus · 8+ years driving sales and campaigns at scale-ups and global brands · ex-Philips
 
-I share the projects, the workflows, and the results in **[The AI Marketing Log](https://lixiaoxuan.substack.com)** · [Connect on LinkedIn](https://www.linkedin.com/in/xiaoxuanlili)
+I share the projects, the workflows, and the results in **[The AI Marketing Log](https://lixiaoxuan.substack.com)** 
+
+I would love to connect on [LinkedIn](https://www.linkedin.com/in/xiaoxuanlili)
 
 ---
 
