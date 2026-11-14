@@ -1,0 +1,24 @@
+# Keeps the "From The AI Marketing Log" list in README.md up to date.
+# Place this file in your profile repo at: .github/workflows/blog-post-workflow.yml
+name: Latest posts from The AI Marketing Log
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # once a day
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-substack:
+    name: Update README with the latest Substack posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in posts from The AI Marketing Log
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://lixiaoxuan.substack.com/feed"
+          max_post_count: 3
