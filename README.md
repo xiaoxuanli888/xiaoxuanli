@@ -12,7 +12,7 @@ I would love to connect on [LinkedIn](https://www.linkedin.com/in/xiaoxuanlili)
 
 ## What I've built with Agentic AI
 
-### Campaign Planner: 2+ hours saved on every campaign launch, reducing manual repetitive work.
+#### Campaign Planner: 2+ hours saved on every campaign launch, reducing manual repetitive work.
 
 A custom Agentic AI skill that turns a campaign brief into a plan the team can start working on.
 
@@ -22,19 +22,21 @@ A custom Agentic AI skill that turns a campaign brief into a plan the team can s
 
 **What I do with the time:** shape the campaign idea, benchmark post-campaign performance, and decide which markets and channels we launch in.
 
-`Agentic AI` `Notion` `Google Drive`
+`Agentic AI` `Notion` `Automation`
 
-### Daily Work Assistant: open items come to me
+#### Daily Work Assistant: open items come to me
 
 A scheduled Agentic AI task that scans my Slack chats, emails and work tracker, then sends me reminders every morning and late afternoon, with an end-of-day list of what's still open.
 
-`Agentic AI` `Slack` `Email` `Work tracker`
+`Agentic AI` `Work tracker`
+
 
 ## From The AI Marketing Log
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Make a Multi-Market Launch Actually Ship Across Channels, Teams, and Countries](https://lixiaoxuan.substack.com)
 - [How I Would Turn a Cross-country B2B Website Into a Demand Generation Machine](https://lixiaoxuan.substack.com)
+
 
 ## Toolkit
 
@@ -51,6 +53,7 @@ A scheduled Agentic AI task that scans my Slack chats, emails and work tracker, 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)<!-- BLOG-POST-LIST:END -->
 
 [Read the full log →](https://lixiaoxuan.substack.com)
+
 
 ## Let's connect
 
