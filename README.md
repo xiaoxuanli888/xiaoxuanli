@@ -9,7 +9,6 @@ I share the projects, the workflows, and the results in **[The AI Marketing Log]
 I would love to connect on [LinkedIn](https://www.linkedin.com/in/xiaoxuanlili)
 
 ---
-
 ## What I've built with Agentic AI
 
 #### Campaign Planner: 2+ hours saved on every campaign launch, reducing manual repetitive work.
