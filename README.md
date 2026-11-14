@@ -40,7 +40,7 @@ A scheduled Agentic AI task that scans my Slack chats, emails and work tracker, 
 ## Toolkit
 
 **AI & automation**<br>
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-D97757?style=flat-square&logo=claude&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF91AC?style=flat-square&logo=n8n&logoColor=333333) ![Lovable](https://img.shields.io/badge/Lovable-3B3B3B?style=flat-square) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
+![Claude](https://img.shields.io/badge/Agentic_AI-D97757?style=flat-square&logo=claude&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF91AC?style=flat-square&logo=n8n&logoColor=333333) ![Lovable](https://img.shields.io/badge/Lovable-3B3B3B?style=flat-square) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
 
 **Content & web**<br>
 ![Adobe Experience Manager](https://img.shields.io/badge/Adobe_Experience_Manager-FF0000?style=flat-square) ![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white) ![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat-square&logo=squarespace&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
