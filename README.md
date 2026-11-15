@@ -11,30 +11,30 @@ I would love to connect on [LinkedIn](https://www.linkedin.com/in/xiaoxuanlili)
 ---
 ## What I've built with Agentic AI
 
-#### Campaign Planner: 2+ hours saved on every campaign launch, reducing manual repetitive work.
+Two workflows I use in my marketing job, plus two AI apps whose code you can explore on GitHub.
 
-A custom Agentic AI skill that turns a campaign brief into a plan the team can start working on.
+#### At work
 
-**Before:** every launch meant at least 2 hours of repetitive manual work, creating the plan in Google Drive and Notion and making sure every channel and stakeholder was tagged.
+| Workflow | What it does | Why it matters |
+|---|---|---|
+| **Campaign Planner** | Turns a campaign brief into a draft plan (timeline, stakeholders, deliverables per channel) and creates Notion tasks for the copywriter, content lead, editor and channel manager | **2+ hours saved on every launch**, now spent on the campaign idea, post-campaign benchmarks, and choosing markets and channels |
+| **Daily Work Assistant** | Scans my Slack, email and work tracker, then sends me reminders every morning and late afternoon | Open items come to me, including an end-of-day list of what's still open |
 
-**Now:** I share the campaign idea and inputs. The skill drafts the plan (timeline, stakeholders and deliverables per channel) and creates the tasks directly in Notion, so the copywriter, content lead, editor and channel manager can pick them up and report back on deliverables and timelines. I adjust and fine-tune the draft.
+#### On GitHub
 
-**What I do with the time:** shape the campaign idea, benchmark post-campaign performance, and decide which markets and channels we launch in.
+| App | What it does | Highlight |
+|---|---|---|
+| [**CV & Cover Letter Agent**](https://github.com/xiaoxuanli888/Job-Search-Master) | Tailors CV and cover letter to a job description (German or Dutch market, corporate or startup style) and exports formatted Word files | Uses only facts from real CV, and a second pass rewrites anything invented |
+| [**Lis German Coach**](https://github.com/xiaoxuanli888/Lis-German-Coach) | AI tutor for German vocabulary (A1–C1) and Goethe B2/C1 exam practice | Gives feedback in German, with short English hints |
 
-`Agentic AI` `Notion` `Automation`
-
-#### Daily Work Assistant: open items come to me
-
-A scheduled Agentic AI task that scans my Slack chats, emails and work tracker, then sends me reminders every morning and late afternoon, with an end-of-day list of what's still open.
-
-`Agentic AI` `Work tracker`
-
+<sub>Apps built with Python and Streamlit.</sub>
 
 ## From The AI Marketing Log
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Make a Multi-Market Launch Actually Ship Across Channels, Teams, and Countries](https://lixiaoxuan.substack.com)
 - [How I Would Turn a Cross-country B2B Website Into a Demand Generation Machine](https://lixiaoxuan.substack.com)
+<!-- BLOG-POST-LIST:END -->
 
 
 ## Toolkit
@@ -49,7 +49,7 @@ A scheduled Agentic AI task that scans my Slack chats, emails and work tracker, 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white) ![Customer.io](https://img.shields.io/badge/Customer.io-0B363B?style=flat-square)
 
 **Analytics**<br>
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)<!-- BLOG-POST-LIST:END -->
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
 
 [Read the full log →](https://lixiaoxuan.substack.com)
 
