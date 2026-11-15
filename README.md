@@ -57,4 +57,5 @@ Two workflows I use in my marketing job, plus two AI apps whose code you can exp
 ## Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/xiaoxuanlili) 
+
 [The AI Marketing Log](https://lixiaoxuan.substack.com)
